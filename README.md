@@ -8,8 +8,13 @@ Deskripsi Konsep Web:
 Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
 
 # My Team
+Husein Zidan          	4522210012
+Zahra Jane Arnecia 	4522210028
+Raihan Alfisa Saugi	4522210037
+Lutfiah Rizka S       	4522210019
+Yesi Agustin           	4522210023
 
-
+# Definition
  Struktur Website : 
 Navigasi Utama: Home, Contact, Catalog
 1. Home Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.
@@ -21,7 +26,7 @@ Navigasi Utama: Home, Contact, Catalog
 7. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi
 8. Footer yang berisi Kontak, Informasi Web, Sosial Media Web : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia 
 
-Fitur Khusus:
+# Fitur Khusus
 1. Rekomendasi Produk: Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.
 2. Catalog : Menampilkan informasi mengenai gambar, nama dan harga produk
 3. Sosial Media: Tautan ke akun media sosial kami sehingga pengguna dapat mengikuti kami dan berinteraksi dengan konten kami di platform lain.
@@ -37,6 +42,7 @@ Tema : E-commerce
 Nama Web :  Nodiessop
 Layout
 
+# Detail
 html: Ini adalah elemen root atau akar dari halaman web.
 head: Ini berisi informasi tentang halaman web, seperti judul dan metadata.
 title: Ini menentukan judul yang akan ditampilkan di tab browser.
@@ -50,7 +56,7 @@ a: Ini digunakan untuk membuat tautan (link) ke halaman web lain atau ke dalam h
 p dalam HTML untuk menampilkan teks paragraf di halaman web.
 img dalam HTML digunakan untuk menampilkan gambar pada halaman web.
 .home: Ini adalah area utama konten halaman web.
-<footer>: Ini berisi informasi yang umumnya ditemukan di bagian bawah halaman, seperti informasi , contact . dan sosial media web
+footer : Ini berisi informasi yang umumnya ditemukan di bagian bawah halaman, seperti informasi , contact . dan sosial media web
 
 
 
