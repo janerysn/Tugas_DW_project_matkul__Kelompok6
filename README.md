@@ -14,17 +14,16 @@ Raihan Alfisa Saugi	- 4522210037<br>
 Lutfiah Rizka S       	- 4522210019<br>
 Yesi Agustin           	- 4522210023
 
-# Definition
- Struktur Website : 
-Navigasi Utama: Home, Contact, Catalog
-1. Home Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.
-2. Section Koleksi: Mengelompokkan produk berdasarkan tema tertentu seperti "Poseidon's Waves" atau "Olympian Classics". Pengguna dapat menjelajahi koleksi ini untuk menemukan produk yang mereka sukai.
-3. Section Tentang Kami: Menyediakan informasi tentang sejarah dan filosofi merek, serta tim di balik Poseidon Reprisal.
-4. Section Blog: Bagian ini berisi artikel tentang mitologi Yunani, keberlanjutan, dan berbagai topik terkait alam dan kekuatan.
-5. Section  Catalog : Berisi gambar dan informasi mengenai produk 
-6. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli
-7. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi
-8. Footer yang berisi Kontak, Informasi Web, Sosial Media Web : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia 
+# Struktur Website
+Navigasi Utama: Home, Contact, Catalog<br>
+1. Home Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.<br>
+2. Section Koleksi: Mengelompokkan produk berdasarkan tema tertentu seperti "Poseidon's Waves" atau "Olympian Classics". Pengguna dapat menjelajahi koleksi ini untuk menemukan produk yang mereka sukai.<br>
+3. Section Tentang Kami: Menyediakan informasi tentang sejarah dan filosofi merek, serta tim di balik Poseidon Reprisal.<br>
+4. Section Blog: Bagian ini berisi artikel tentang mitologi Yunani, keberlanjutan, dan berbagai topik terkait alam dan kekuatan.<br>
+5. Section  Catalog : Berisi gambar dan informasi mengenai produk <br>
+6. Section Review/Penilaian : Pengguna dapat mengomentari serta memberikan nilai terhadap produk yang telah dibeli<br>
+7. Section Laman Pembayaran : Pembeli dapat akses ke laman pembayaran jika ingin melakukan pembelian/ Transaksi<br>
+8. Footer yang berisi Kontak, Informasi Web, Sosial Media Web : Memberikan informasi mengenai web, pelanggan dapat  menghubungi kami melalui kontak/Sosial media yang telah tersedia <br>
 
 # Fitur Khusus
 1. Rekomendasi Produk: Menampilkan gambar utama koleksi terbaru, pengenalan singkat tentang merek, dan tautan ke produk-produk terbaru.
