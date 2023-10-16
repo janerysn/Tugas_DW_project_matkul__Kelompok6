@@ -33,20 +33,20 @@ Font :  Lexend
 Tema : E-commerce
 Nama Web :  Nodiessop
 Layout
-<!DOCTYPE html>: Ini mendefinisikan tipe dokumen HTML yang digunakan, dalam hal ini, HTML5.
-<html>: Ini adalah elemen root atau akar dari halaman web.
-<head>: Ini berisi informasi tentang halaman web, seperti judul dan metadata.
-<title>: Ini menentukan judul yang akan ditampilkan di tab browser.
-<body>: Ini adalah area utama halaman web yang berisi konten yang akan ditampilkan kepada pengguna.
-<header>: Ini berisi elemen-elemen yang umumnya ditemukan di bagian atas halaman, seperti judul utama dan menu navigasi.
-<h1>, <h2>: Ini adalah elemen heading atau judul dengan tingkat kepentingan yang berbeda.
-<nav>: Ini menandai bagian navigasi situs web.
-<ul> dan <li>: Ini digunakan untuk membuat daftar yang tak bernomor (unordered list).
-<div> untuk mengelompokkan bagian-bagian berbeda dari halaman web, seperti header, konten, dan footer.
-<a>: Ini digunakan untuk membuat tautan (link) ke halaman web lain atau ke dalam halaman yang sama.
-<p> dalam HTML untuk menampilkan teks paragraf di halaman web.
-<img> dalam HTML digunakan untuk menampilkan gambar pada halaman web.
-<main>: Ini adalah area utama konten halaman web.
+
+html: Ini adalah elemen root atau akar dari halaman web.
+head: Ini berisi informasi tentang halaman web, seperti judul dan metadata.
+title: Ini menentukan judul yang akan ditampilkan di tab browser.
+body: Ini adalah area utama halaman web yang berisi konten yang akan ditampilkan kepada pengguna.
+header: Ini berisi elemen-elemen yang umumnya ditemukan di bagian atas halaman, seperti judul utama dan menu navigasi.
+h1, h2: Ini adalah elemen heading atau judul dengan tingkat kepentingan yang berbeda.
+nav: Ini menandai bagian navigasi situs web.
+ul dan li: Ini digunakan untuk membuat daftar yang tak bernomor (unordered list).
+div untuk mengelompokkan bagian-bagian berbeda dari halaman web, seperti header, konten, dan footer.
+a: Ini digunakan untuk membuat tautan (link) ke halaman web lain atau ke dalam halaman yang sama.
+p dalam HTML untuk menampilkan teks paragraf di halaman web.
+img dalam HTML digunakan untuk menampilkan gambar pada halaman web.
+.home: Ini adalah area utama konten halaman web.
 <footer>: Ini berisi informasi yang umumnya ditemukan di bagian bawah halaman, seperti informasi , contact . dan sosial media web
 
 
