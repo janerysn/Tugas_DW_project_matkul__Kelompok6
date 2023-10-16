@@ -1,4 +1,4 @@
-# Tugas_DW_project_UTS
+# Product Profile
 
 Judul Website:
 Poseidon Reprisal - Kekuatan Alam Dalam Gaya
@@ -6,6 +6,9 @@ Referensi :  https://shopee.co.id/shop/117301215
  
 Deskripsi Konsep Web:
 Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
+
+# My Team
+
 
  Struktur Website : 
 Navigasi Utama: Home, Contact, Catalog
