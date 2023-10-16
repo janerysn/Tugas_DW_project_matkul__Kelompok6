@@ -26,9 +26,13 @@ button {
   margin: 10px;
 }
 
-header nav ul li {
+.tombolNav {
   color: #fff;
   list-style: none;
+}
+
+.tombolNav:hover {
+  background-color: #0d9e73;
 }
 
 .tombolNav {
@@ -49,6 +53,10 @@ header nav ul li {
   border-radius: 10px;
   background-color: #d1fae5;
   box-shadow: -1px 2px 4px rgba(44, 62, 80, 0.6);
+}
+
+.tombolNavCatalog:hover {
+  background-color: #b8e9d5;
 }
 
 .home {
@@ -96,7 +104,7 @@ header nav ul li {
   filter: blur(60px);
   transform: rotate(90deg);
 
-  margin-top: 300px;
+  margin-top: 500px;
   margin-left: -200px;
 }
 
