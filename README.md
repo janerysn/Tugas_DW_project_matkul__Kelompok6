@@ -8,11 +8,11 @@ Deskripsi Konsep Web:
 Poseidon Reprisal adalah merek pakaian yang menggabungkan estetika alam dengan kekuatan mitologi Yunani. Kami menciptakan pakaian yang unik dan berkualitas tinggi dengan desain yang terinspirasi oleh elemen alam dan legenda dewa laut Poseidon. Konsep web kami menggambarkan visi kami untuk menjaga dan menghormati alam, sambil merayakan kekuatan alam dan budaya Yunani.
 
 # My Team
-Husein Zidan          	4522210012<br>
-Zahra Jane Arnecia 	4522210028<br>
-Raihan Alfisa Saugi	4522210037<br>
-Lutfiah Rizka S       	4522210019<br>
-Yesi Agustin           	4522210023
+Husein Zidan          	- 4522210012<br>
+Zahra Jane Arnecia 	- 4522210028<br>
+Raihan Alfisa Saugi	- 4522210037<br>
+Lutfiah Rizka S       	- 4522210019<br>
+Yesi Agustin           	- 4522210023
 
 # Definition
  Struktur Website : 
